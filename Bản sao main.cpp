@@ -1,5 +1,5 @@
 #include <iostream>
-//dachinhsua1dong
+
 using namespace::std;
 class CPhanso
 {
